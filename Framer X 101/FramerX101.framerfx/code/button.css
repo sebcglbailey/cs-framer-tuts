@@ -1,0 +1,65 @@
+.buttonBase {
+  border-radius: 4px;
+  font-size: 14px;
+  line-height: 24px;
+  padding: 11px;
+  font-weight: 600;
+  min-width: 160px;
+  border: none;
+  width: 100%;
+  height: 100%;
+}
+
+.buttonBase:hover {
+  cursor: pointer;
+}
+
+.buttonBase:hover[disabled] {
+  cursor: no-drop;
+}
+
+.primary {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.16), 0 0 4px rgba(0,0,0,0.08);
+  background: #0f81a3;
+  color: #fff;
+}
+
+.primary:hover, .primary:focus, .primary:active {
+  background: #0a5269;
+}
+
+.primary[disabled], .primary[disabled]:hover, .primary[disabled]:focus, .primary[disabled]:active {
+  background: #dcdfe2;
+  box-shadow: none;
+  color: #b9bec4;
+}
+
+.secondary {
+  background: transparent;
+  border: 1px solid #0f81a3;
+  color: #0f81a3;
+}
+
+.secondary:hover, .secondary:focus, .secondary:active {
+  border-color: #0a5269;
+  color: #0a5269;
+}
+
+.secondary[disabled], .secondary[disabled]:hover, .secondary[disabled]:focus, .secondary[disabled]:active {
+  border-color: #dcdfe2;
+  color: #b9bec4;
+}
+
+.tertiary {
+  background: transparent;
+  color: #0f81a3;
+}
+
+.tertiary:hover, .tertiary:focus, .tertiary:active {
+  background:  rgba(0,0,0,0.08);
+}
+
+.tertiary[disabled], .tertiary[disabled]:hover, .tertiary[disabled]:focus, .tertiary[disabled]:active {
+  color: #b9bec4;
+  background: none;
+}

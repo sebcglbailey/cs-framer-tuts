@@ -1,0 +1,46 @@
+.h1, .h2, .h3, .h4, .body, .bodySmall, .overline {
+  color: #263648;
+}
+
+.h1 {
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: 700;
+}
+
+.h2 {
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 700;
+}
+
+.h3 {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 700;
+}
+
+.h4 {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+}
+
+.body {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.bodySmall {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+}
+
+.overline {
+  font-size: 11px;
+  line-height: 16px;
+  font-weight: 500;
+  text-transform: uppercase;
+}

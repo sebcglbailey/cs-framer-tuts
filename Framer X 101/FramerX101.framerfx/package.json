@@ -1,0 +1,27 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@framer/framer.device-hand-iphone-1": "^1.0.0",
+		"@framer/framer.device-hand-iphone-2": "^1.0.0",
+		"@framer/framer.device-skin-apple-iphone-xs-silver": "^1.0.0",
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "eb1e07ab-e559-4031-a6da-3d365be33731"
+	},
+	"author": "Sebastian Bailey",
+	"dependencies": {
+		"@clearscore/rainbow.button": "^1.17.0",
+		"@clearscore/rainbow.criteria": "^0.2.2",
+		"@clearscore/rainbow.icon": "^1.26.1",
+		"@clearscore/rainbow.label": "^1.9.1",
+		"@clearscore/rainbow.text-input": "^1.15.2",
+		"@framer/framer.base": "^1.0.0",
+		"@framer/steveruizok.drag-and-drop": "^1.1.0"
+	}
+}
