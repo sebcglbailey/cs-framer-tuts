@@ -20,8 +20,12 @@
 		"@clearscore/rainbow.criteria": "^0.2.2",
 		"@clearscore/rainbow.icon": "^1.26.1",
 		"@clearscore/rainbow.label": "^1.9.1",
+		"@clearscore/rainbow.text": "^1.16.4",
 		"@clearscore/rainbow.text-input": "^1.15.2",
+		"@framer/colebemis.feather-icons": "^1.2.0",
 		"@framer/framer.base": "^1.0.0",
-		"@framer/steveruizok.drag-and-drop": "^1.1.0"
+		"@framer/steveruizok.drag-and-drop": "^1.1.0",
+		"@framer/unsplash.unsplash": "^1.0.0",
+		"@scaffolding/font": "^3.1.1"
 	}
 }
