@@ -455,6 +455,11 @@
   dependencies:
     react-beautiful-dnd "^10.0.3"
 
+"@scaffolding/font@^3.1.1":
+  version "3.1.1"
+  resolved "https://clearscoredev.jfrog.io/clearscoredev/api/npm/npm/@scaffolding/font/-/@scaffolding/font-3.1.1.tgz#63b8a1cfaead364b17be7b4c67188e379dd22b87"
+  integrity sha1-Y7ihz66tNksXvntMZxiON53SK4c=
+
 "@types/prop-types@*":
   version "15.7.0"
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.0.tgz#4c48fed958d6dcf9487195a0ef6456d5f6e0163a"

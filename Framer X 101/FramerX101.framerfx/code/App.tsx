@@ -39,6 +39,9 @@ export function EmailInput(): Override {
                     : ""
             appState.userEmail = value
         },
+        onKeyDown: event => {
+            console.log(event)
+        },
     }
 }
 
