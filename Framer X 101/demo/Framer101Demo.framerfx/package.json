@@ -1,0 +1,22 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "6ddc438a-6963-4f38-916a-502b02008341"
+	},
+	"author": "Sebastian Bailey",
+	"dependencies": {
+		"@clearscore/rainbow.button": "^1.17.4",
+		"@clearscore/rainbow.label": "^1.9.5",
+		"@clearscore/rainbow.text": "^1.16.4",
+		"@clearscore/rainbow.text-input": "^1.15.7",
+		"@framer/unsplash.unsplash": "^1.0.0"
+	}
+}

@@ -1,0 +1,12 @@
+button {
+  margin: 0;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+}
+
+button:hover[disabled] {
+  cursor: no-drop;
+}

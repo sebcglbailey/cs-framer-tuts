@@ -1,6 +1,7 @@
 // WARNING: this file is auto generated, any changes will be lost
 import { createDesignComponent, CanvasStore } from "framer"
 const canvas = CanvasStore.shared(); // CANVAS_DATA;
+export const Card = createDesignComponent<{parentSize?:{width:number|string,height:number|string},width?:number|string,height?:number|string,Title?:string,Description?:string}>(canvas, "id_H38u_hg4g", {Title:"string",Description:"string"}, 327,203);
 export const ProtoType = createDesignComponent<{parentSize?:{width:number|string,height:number|string},width?:number|string,height?:number|string}>(canvas, "id_Vsdlo6Fda", {}, 953,222);
 export const WhyProto = createDesignComponent<{parentSize?:{width:number|string,height:number|string},width?:number|string,height?:number|string}>(canvas, "id_L1Z0xrQ_m", {}, 953,182);
 
